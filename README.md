@@ -8,8 +8,8 @@ Hello! I'm [Cong], a passionate Junior with expertise in [Javascript], [Typescri
 
 - 🌍 Location: Ho Chi Minh City, Viet Nam
 - 💼 Currently working on: FPT Software
-- 📫 Reach me at: [caocong2kb6.work@gmail.com]
-- 🔗 Connect with me: [www.linkedin.com/in/cao-cong-2kb6]
+- 📫 Reach me at: caocong2kb6.work@gmail.com
+- 🔗 Connect with me: www.linkedin.com/in/cao-cong-2kb6
 
 ## 📂 Portfolio Structure
 
@@ -21,8 +21,8 @@ This repository contains:
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: [e.g., JavaScript, Python, C++]
-- Web Development: [e.g., React, Node.js, Express.js]
+- Programming Languages: JavaScript, TypeScript, C#, Java
+- Web Development: Node.js, Express.js, NestJs, ASP.Net, React...
 - Database: Oracle, PostgreSQL, SQL Server, MongoDB, MySQL
 - Other Tools: Docker, Git, CI/CD, Azure, AWS 
 
@@ -30,14 +30,14 @@ This repository contains:
 
 ### 1️⃣ **[VSAT]**
 
-**Description**: Brief description of the project.
+**Description**:
 
 - 🔗 [Live Demo](#) | 📂 [Source Code](#)
 - 🔧 Technologies Used: [List of technologies]
 
 ### 2️⃣ **[Project Name]**
 
-**Description**: Brief description of the project.
+**Description**: 
 
 - 🔗 [Live Demo](#) | 📂 [Source Code](#)
 - 🔧 Technologies Used: [List of technologies]
@@ -53,8 +53,8 @@ This repository contains:
 
 If you'd like to collaborate or have any questions, feel free to reach out:
 
-📧 Email: [caocong2kb6.work@gmail.com]\
-🔗 LinkedIn: [www.linkedin.com/in/cao-cong-2kb6]\
+📧 Email: caocong2kb6.work@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/cao-cong-2kb6
 
 ---
 
