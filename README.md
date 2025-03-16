@@ -9,7 +9,7 @@ Hello! I'm [Cong], a passionate Junior with expertise in [Javascript], [Typescri
 - 🌍 Location: Ho Chi Minh City, Viet Nam
 - 💼 Currently working on: FPT Software
 - 📫 Reach me at: [caocong2kb6.work@gmail.com]
-- 🔗 Connect with me: [www.linkedin.com/in/cong-cao-2kb6-dev]
+- 🔗 Connect with me: [www.linkedin.com/in/cao-cong-2kb6]
 
 ## 📂 Portfolio Structure
 
@@ -54,7 +54,7 @@ This repository contains:
 If you'd like to collaborate or have any questions, feel free to reach out:
 
 📧 Email: [caocong2kb6.work@gmail.com]\
-🔗 LinkedIn: [www.linkedin.com/in/cong-cao-2kb6-dev]\
+🔗 LinkedIn: [www.linkedin.com/in/cao-cong-2kb6]\
 
 ---
 
