@@ -53,7 +53,7 @@ This repository contains:
 
 If you'd like to collaborate or have any questions, feel free to reach out:
 
-📧 Email: caocong2kb6.work@gmail.com
+📧 Email: [caocong2kb6.work@gmail.com]\
 🔗 LinkedIn: www.linkedin.com/in/cao-cong-2kb6
 
 ---
